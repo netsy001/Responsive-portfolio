@@ -1,0 +1,10 @@
+body {
+    background-color: transparent;
+    background: url(img/images.jpg);
+    background-size: cover;
+}
+
+section {
+   padding: 25px;
+    
+} 
