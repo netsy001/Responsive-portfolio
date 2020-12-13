@@ -1,3 +1,4 @@
+/* index.html */
 
 section {
    padding: 25px;   
@@ -6,10 +7,6 @@ p {
     font-family: 'Times New Roman', Times, serif;
     font-size: large;
 }
-
-h1 {
-    color: orange;
-}
 .index:hover {
 color:yellowgreen;
 background-color:black;
@@ -17,6 +14,9 @@ background-color:black;
 .image:hover {
     zoom: 115%;
 }
+
+    /* portfolio: html; */
+
 .vedio {
     background-color: gainsboro;
 }
@@ -29,6 +29,8 @@ background-color:black;
     background-color: whitesmoke;
 }
 .index3 {
-    padding-bottom: 15px;
     background-color: whitesmoke;
 }
+
+/* contact.html */
+
