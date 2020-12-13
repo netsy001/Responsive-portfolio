@@ -10,3 +10,25 @@ p {
 h1 {
     color: orange;
 }
+.index:hover {
+color:yellowgreen;
+background-color:black;
+}
+.image:hover {
+    zoom: 115%;
+}
+.vedio {
+    background-color: gainsboro;
+}
+.index1 {
+    padding-bottom: 15px;
+    background-color: whitesmoke;
+}
+.index2 {
+    padding-bottom: 15px;
+    background-color: whitesmoke;
+}
+.index3 {
+    padding-bottom: 15px;
+    background-color: whitesmoke;
+}
